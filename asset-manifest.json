@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calaulator/static/css/main.bf52d32e.css",
+    "main.js": "/Calaulator/static/js/main.b10db90c.js",
+    "index.html": "/Calaulator/index.html",
+    "main.bf52d32e.css.map": "/Calaulator/static/css/main.bf52d32e.css.map",
+    "main.b10db90c.js.map": "/Calaulator/static/js/main.b10db90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf52d32e.css",
+    "static/js/main.b10db90c.js"
+  ]
+}
