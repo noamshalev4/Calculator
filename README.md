@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="./images/calculator_favicon.png" alt="Calculator App" width="120" height="120" style="border-radius: 20px; margin-bottom: 20px;" />
+  ![Calculator Icon](./images/calculator_favicon.png)
   
   [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://noamshalev4.github.io/Calaulator)
   [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
